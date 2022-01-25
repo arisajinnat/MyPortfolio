@@ -1,0 +1,22 @@
+h1{
+    font-size: 50px;
+}
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.namehi{
+    color: rgb(225, 134, 233);
+}
+.halfwidth{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 1%;
+    padding-right:1% ;
+
+
+
+}
+.hafwidth img{
+    width: 100%;
+}
